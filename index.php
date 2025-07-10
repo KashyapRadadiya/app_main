@@ -11,6 +11,8 @@
 echo "<p>Hello from KASHYAP!</p>";
 echo "<p>Today is " . date("l, F jS Y") . ".</p>";
 ?>
+<p>Visit my <a href="https://github.com/KashyapRadadiya" target="_blank">Github Profile </a></p>;
+
 
 </body>
 </html>
